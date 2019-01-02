@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Be Secured</string>
+    <string name="hotels">Hotels</string>
+    <string name="map">Map</string>
+    <string name="gethelp">Get Help</string>
+
+</resources>

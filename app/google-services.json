@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "731285987638",
+    "firebase_url": "https://food-chef.firebaseio.com",
+    "project_id": "food-chef",
+    "storage_bucket": "food-chef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731285987638:android:f81bc79e41c79c81",
+        "android_client_info": {
+          "package_name": "com.firebaseapp.clovis_saintiano.besecured"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731285987638-h7f74jscs95h7h8628ip47koev812pbc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebaseapp.clovis_saintiano.besecured",
+            "certificate_hash": "bc4b400d0614a4fe48105531ccd1097da5071844"
+          }
+        },
+        {
+          "client_id": "731285987638-snv6mar8c2frj7917e92bq5mmvthclg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Rz3kR5LVOS21GjlQ7VRLQsMT2kTFQ2o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731285987638-snv6mar8c2frj7917e92bq5mmvthclg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
